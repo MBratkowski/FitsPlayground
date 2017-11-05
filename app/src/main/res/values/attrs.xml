@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LevelProgressView">
+        <attr name="level" format="integer" />
+        <attr name="baseColor" format="color" />
+        <attr name="levelColor" format="color" />
+        <attr name="widthFrontLine" format="integer" />
+        <attr name="widthBackLine" format="integer" />
+        <attr name="iconSize" format="dimension" />
+        <attr name="icon" format="reference" />
+    </declare-styleable>
+</resources>
